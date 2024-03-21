@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b49eebc1-dfb4-4a25-baee-6c414731cb05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Apk Bilgisi_2.3.4_apkcombo.com (1).apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Calculator_8.4.1 (520193683)_Apkpure.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/all-currency-converter-3-9-0 (1).apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/arabam.com_5.0.6_Apkpure.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AllCurrencyAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/KiwiPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/apkYukleme/apk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/day1/calculator_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/day2/appArabam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/day3/KiwiApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/day4/allCurrencyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/AllCurrencyAppPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/KiwiPages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/apkYukleme/apk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day1/calculator_test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day2/appArabam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day3/KiwiApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day4/allCurrencyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zlotyToTry.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YuC31xiu2I1IVW1Qf0GsAMmQqA" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yusuf/IdeaProjects/Appium_T120&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Apps" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.apk">
+    <configuration name="KiwiApp.kiwiAppTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day3" />
+      <option name="MAIN_CLASS_NAME" value="test.day3.KiwiApp" />
+      <option name="METHOD_NAME" value="kiwiAppTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="allCurrencyApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day4" />
+      <option name="MAIN_CLASS_NAME" value="test.day4.allCurrencyApp" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="allCurrencyApp.allCurrencyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day4" />
+      <option name="MAIN_CLASS_NAME" value="test.day4.allCurrencyApp" />
+      <option name="METHOD_NAME" value="allCurrencyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apk" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.apkYukleme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.apkYukleme" />
+      <option name="MAIN_CLASS_NAME" value="test.apkYukleme.apk" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apk.apkYukleme" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.apkYukleme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.apkYukleme" />
+      <option name="MAIN_CLASS_NAME" value="test.apkYukleme.apk" />
+      <option name="METHOD_NAME" value="apkYukleme" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.apk" />
+        <item itemvalue="TestNG.apk.apkYukleme" />
+        <item itemvalue="TestNG.allCurrencyApp.allCurrencyTest" />
+        <item itemvalue="TestNG.allCurrencyApp" />
+        <item itemvalue="TestNG.KiwiApp.kiwiAppTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b49eebc1-dfb4-4a25-baee-6c414731cb05" name="Changes" comment="" />
+      <created>1701365881395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701365881395</updated>
+    </task>
+    <servers />
+  </component>
+</project>
