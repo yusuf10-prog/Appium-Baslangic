@@ -5,41 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b49eebc1-dfb4-4a25-baee-6c414731cb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apps/Apk Bilgisi_2.3.4_apkcombo.com (1).apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apps/Calculator_8.4.1 (520193683)_Apkpure.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apps/all-currency-converter-3-9-0 (1).apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apps/arabam.com_5.0.6_Apkpure.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AllCurrencyAppPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/KiwiPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/apkYukleme/apk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/day1/calculator_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/day2/appArabam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/day3/KiwiApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/day4/allCurrencyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/AllCurrencyAppPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/KiwiPages.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test/apkYukleme/apk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day1/calculator_test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day2/appArabam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day3/KiwiApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test/day4/allCurrencyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zlotyToTry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/YukatoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/apkYukleme/apk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/apkYukleme/apk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/apkYukleme/apk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/apkYukleme/apk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,36 +64,36 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.apk">
-    <configuration name="KiwiApp.kiwiAppTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.YukatoApp.YukatoTest">
+    <configuration name="YukatoApp" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Appium_T120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day3.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.day3" />
-      <option name="MAIN_CLASS_NAME" value="test.day3.KiwiApp" />
-      <option name="METHOD_NAME" value="kiwiAppTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.YukatoApp" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="allCurrencyApp" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="YukatoApp.YukatoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Appium_T120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day4.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.day4" />
-      <option name="MAIN_CLASS_NAME" value="test.day4.allCurrencyApp" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.YukatoApp" />
+      <option name="METHOD_NAME" value="YukatoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -182,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.apk" />
+        <item itemvalue="TestNG.YukatoApp.YukatoTest" />
+        <item itemvalue="TestNG.YukatoApp" />
         <item itemvalue="TestNG.apk.apkYukleme" />
+        <item itemvalue="TestNG.apk" />
         <item itemvalue="TestNG.allCurrencyApp.allCurrencyTest" />
-        <item itemvalue="TestNG.allCurrencyApp" />
-        <item itemvalue="TestNG.KiwiApp.kiwiAppTest (1)" />
       </list>
     </recent_temporary>
   </component>

@@ -16,7 +16,7 @@ public class Driver {
     static final String TELEFONADI="PIXEL2";
     // Neden final olarak tanımlıyoruz.
     // Tekrardan bu degere atama isleminin yapılmaması icin final yapıyoruz.
-    static final String ANDROIDVERSION="13.0";
+    static final String ANDROIDVERSION="10.0";
     static final String PLATFORM="Android";
     static final String OTOMASYON_ISMI="UiAutomator2";
 
@@ -40,9 +40,9 @@ public class Driver {
             caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, ANDROIDVERSION);
             caps.setCapability(MobileCapabilityType.PLATFORM_NAME, PLATFORM);
             caps.setCapability(MobileCapabilityType.AUTOMATION_NAME, OTOMASYON_ISMI);
-            caps.setCapability(MobileCapabilityType.UDID,"ea3e6f63");
-            caps.setCapability("appPackage","com.smartwho.SmartAllCurrencyConverter");
-            caps.setCapability("appActivity","com.smartwho.SmartAllCurrencyConverter.CurrencyConverter");
+         //   caps.setCapability(MobileCapabilityType.UDID,"ea3e6f63");
+            caps.setCapability("appPackage","com.yukato.app.mobile.drivers.android");
+            caps.setCapability("appActivity","com.yukato.app.mobile.drivers.android.MainActivity");
             caps.setCapability(MobileCapabilityType.NO_RESET,false);
             // true olarak sectigimizde uygulamayı sıfırlamıyor onceki adimları muhafaza ediyor
             // false ise her test baslangicinda sıfırlıyor

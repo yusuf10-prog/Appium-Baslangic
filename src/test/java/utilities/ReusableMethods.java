@@ -31,4 +31,8 @@ public class ReusableMethods {
         driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\"" + elementText + "\"))");
         driver.findElementByXPath("//*[@text='" + elementText + "']").click();
     }
+
+    public static void phoneMethod(int no1,int no2,int no3,int no4,int no5, int no6, int no7, int no8, int no9, int no10, int bekleme){
+
+    }
 }

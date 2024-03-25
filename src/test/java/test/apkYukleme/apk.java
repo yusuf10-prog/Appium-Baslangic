@@ -19,11 +19,11 @@ public class apk {
 
         DesiredCapabilities capabilities=new DesiredCapabilities();
         capabilities.setCapability(MobileCapabilityType.DEVICE_NAME,"Pixel 2");
-        capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION,"13.0");
+        capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION,"10.0");
         capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME,"Android");
         capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,"UiAutomator2");
        // capabilities.setCapability(MobileCapabilityType.UDID,"ea3e6f63");
-        capabilities.setCapability(MobileCapabilityType.APP,"/Users/yusuf/IdeaProjects/Appium_T120/Apps/Calculator_8.4.1 (520193683)_Apkpure.apk");
+        capabilities.setCapability(MobileCapabilityType.APP,"/Users/yusuf/IdeaProjects/Appium_T120/Apps/Yukato Drivers_10.168_apkcombo.com.apk");
        // capabilities.setCapability(MobileCapabilityType.APP, "/Users/yusuf/IdeaProjects/Appium_T120/Apps/Apk Bilgisi_2.3.4_apkcombo.com (1).apk");
 
         driver=new AndroidDriver<AndroidElement>(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
