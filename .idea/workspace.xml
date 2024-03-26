@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b49eebc1-dfb4-4a25-baee-6c414731cb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/YukatoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/day5/Appium03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/YukatoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/YukatoApp/YukatoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/apkYukleme/apk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/apkYukleme/apk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/apkYukleme/apk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/apkYukleme/apk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +62,35 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.YukatoApp.YukatoTest">
+  <component name="RunManager" selected="TestNG.Appium03.isCaculatorAppInstalled">
+    <configuration name="Appium03.isCaculatorAppInstalled" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day5" />
+      <option name="MAIN_CLASS_NAME" value="test.day5.Appium03" />
+      <option name="METHOD_NAME" value="isCaculatorAppInstalled" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="YukatoApp" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Appium_T120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="test.YukatoApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.YukatoApp" />
+      <option name="MAIN_CLASS_NAME" value="test.YukatoApp.YukatoApp" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -86,49 +102,14 @@
       <module name="Appium_T120" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="test.YukatoApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.YukatoApp" />
+      <option name="MAIN_CLASS_NAME" value="test.YukatoApp.YukatoApp" />
       <option name="METHOD_NAME" value="YukatoTest" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="allCurrencyApp.allCurrencyTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Appium_T120" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.day4" />
-      <option name="MAIN_CLASS_NAME" value="test.day4.allCurrencyApp" />
-      <option name="METHOD_NAME" value="allCurrencyTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="apk" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Appium_T120" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.apkYukleme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.apkYukleme" />
-      <option name="MAIN_CLASS_NAME" value="test.apkYukleme.apk" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -153,13 +134,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="calculator_test.apkYukleme" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_T120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day1" />
+      <option name="MAIN_CLASS_NAME" value="test.day1.calculator_test" />
+      <option name="METHOD_NAME" value="apkYukleme" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Appium03.isCaculatorAppInstalled" />
+        <item itemvalue="TestNG.calculator_test.apkYukleme" />
+        <item itemvalue="TestNG.apk.apkYukleme" />
         <item itemvalue="TestNG.YukatoApp.YukatoTest" />
         <item itemvalue="TestNG.YukatoApp" />
-        <item itemvalue="TestNG.apk.apkYukleme" />
-        <item itemvalue="TestNG.apk" />
-        <item itemvalue="TestNG.allCurrencyApp.allCurrencyTest" />
       </list>
     </recent_temporary>
   </component>
